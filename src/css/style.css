@@ -182,8 +182,9 @@ body {
     border-radius: 10.667px;
     background: #E62872;
     box-shadow: 0px 1.333px 2.667px 0px rgba(16, 24, 40, 0.05);
-    padding: 12.333px 21.333px;
+    padding: 7.333px 21.333px;
     color: #FFF;
+    height: 70px;
     font-family: Roboto;
     font-size: 19.333px;
     font-style: normal;
@@ -192,7 +193,7 @@ body {
     /* 32px */
 }
 .portfolio-heading img {
-    padding: 0px 10px;
+    padding: 12px 10px;
 }
 .Portfolio-section .card-title {
     color: var(--Heading-color, #282938);
