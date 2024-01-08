@@ -1,0 +1,112 @@
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 1.5rem;
+        padding-left: 1.5rem;
+    }
+   .navbar {
+        background: #FFF;
+        box-shadow: 0px 5.333px 80px 0px rgba(0, 0, 0, 0.10);
+        padding: 0px 85.333px;
+        height: 85px;
+        flex-wrap: nowrap;
+    }
+}
+ @media(min-width:320px) and (max-width:480px){
+
+    .navbar{
+        position: sticky;
+        top: 0;
+    }
+    .navbar-nav{
+        align-items: center;
+        margin-top: 20px !important;
+        background: #5E3BEE;
+        border-radius: 10px;  
+    }
+   .navbar-nav li a{
+        color: #FFF !important;
+    }
+
+    .contact-btn{
+        margin-left: 116px;
+    }
+
+    .hero-section-main {
+        padding: 80.333px 5.333px;
+    }
+
+    .left-herocontent p:nth-child(2){
+        font-size: 41.667px;
+        font-weight: 600;
+        text-align: center;
+    }
+    .left-herocontent p{
+        text-align: center;
+        font-size: 17px;
+        margin-top: 10px;
+    }
+    .right-heroimage img{
+        margin-top: 20px;
+    }
+
+    .skills{
+        font-size: 37px;
+        text-align: center;
+        margin-top: 20px;
+    }
+   .skills h1{
+        font-size: 42px;
+    }
+    .experties .myexperties{
+        display: block;
+        padding-inline: 10px;
+    }
+    .skills p:first-child {
+        margin-top: 15px;
+    }
+    .about-left-section{
+        text-align: center;
+    }
+
+    .about-left-section h2{
+        font-size: 42px;
+        font-weight: 500;
+    }
+    .about-content{
+        text-align: justify;
+        font-size:18px;
+        font-weight: 400;
+    }
+
+    .Portfolio-section{
+        text-align: center;
+    }
+
+    .Portfolio-section h3 {
+        font-size: 42px;
+        font-weight: 500;
+        margin: auto;
+    }
+
+    .portfolio-heading .btn{
+       margin-left: 49px;
+       margin-top: 20px;
+    }
+
+    .testimonials-section{
+        text-align: center;
+    }
+
+    .testimonials-section h4{
+        font-size: 42px;
+        font-weight: 500;
+    }
+
+    .footer-link{
+        margin-top: 10px;
+    }
+
+    .social-icons{
+        margin-top: 13px;
+    }
+}
