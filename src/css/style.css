@@ -19,6 +19,13 @@ body {
     border: 1.333px solid var(--Primary, #5E3BEE);
     padding: 8.667px 30.667px;
 }
+.navbar-brand{
+    padding-bottom: 1.3125rem;
+}
+.navbar-brand img{
+    height: 62px;
+    padding: 1px 0px;
+}
 .navbar-nav a {
     font-size: 17.333px;
     font-style: normal;
@@ -292,6 +299,11 @@ height: 70.667px;
 }
 .footer-content ul li{
     list-style: none;   
+}
+
+.img-footer{
+    position: relative;
+    top: -17px;
 }
 
 .footer-content ul li a{
