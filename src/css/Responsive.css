@@ -32,7 +32,7 @@
     }
 
     .hero-section-main {
-        padding: 80.333px 5.333px;
+        padding: 22.333px 5.333px 
     }
 
     .left-herocontent p:nth-child(2){
@@ -109,5 +109,9 @@
 
     .social-icons{
         margin-top: 13px;
+    }
+
+    .testimonial-user p{
+        margin-right: -25px;
     }
 }
